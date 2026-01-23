@@ -1,3 +1,5 @@
+![VueUse Skills banner](./.github/assets/banner.svg)
+
 # VueUse Skills
 
 Agent Skills for [VueUse](https://vueuse.org/) — a collection of essential Vue Composition Utilities.
