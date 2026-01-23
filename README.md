@@ -2,13 +2,14 @@
 
 Agent Skills for [VueUse](https://vueuse.org/) — a collection of essential Vue Composition Utilities.
 
-> Experimental project: Aims to help AI agents use libraries more accurately with fewer tokens. Feedback is welcome.
+> [!IMPORTANT]
+> Experimental Project: Aims to help AI agents use libraries more accurately with fewer tokens. Feedback is welcome.
 
-- Progressive disclosure: send VueUse function overviews first, then load detailed usage and type declarations on demand
-- Minimal token usage: provide only necessary information to reduce token consumption
-- Offline-first design: no internet access required for AI agents
-- Customizable policies: users can override function invocation rules in prompts or `AGENTS.md`
-- Reduced hallucinations: precise usage references help prevent invented APIs
+- 🪜 Progressive disclosure: send VueUse function overviews first, then load detailed usage and type declarations on demand
+- 💰 Minimal token usage: provide only necessary information to reduce token consumption
+- 📵 Offline-first design: no internet access required for AI agents
+- ⚙️ Customizable policies: users can override function invocation rules in prompts or `AGENTS.md`
+- 💉 Reduced hallucinations: precise usage references help prevent invented APIs
 
 ## Installation
 
@@ -605,6 +606,6 @@ input[type='text']:focus {
 
 This skills includes code and documentation from the [VueUse](https://vueuse.org/) project, licensed under MIT.
 
-## LICENSE
+## License
 
 MIT
