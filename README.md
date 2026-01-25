@@ -16,7 +16,7 @@ Agent Skills for [VueUse](https://vueuse.org/) — a collection of essential Vue
 ## Installation
 
 ```bash
-npx add-skill serkodev/vueuse-skills
+npx skills add vueuse/skills
 ```
 
 ## Example Usage
@@ -603,10 +603,6 @@ input[type='text']:focus {
 </style>
 ```
 </details>
-
-## Credits
-
-This skills includes code and documentation from the [VueUse](https://vueuse.org/) project, licensed under MIT.
 
 ## License
 
