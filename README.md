@@ -19,6 +19,18 @@ Agent Skills for [VueUse](https://vueuse.org/) — a collection of essential Vue
 npx skills add vueuse/skills
 ```
 
+## Claude Code Marketplace
+
+An alternative for Claude Code users:
+
+```
+# Add marketplace
+/plugin marketplace add vueuse/skills
+
+# Install individual skills
+/plugin install vueuse-functions@vueuse-skills
+```
+
 ## Example Usage
 
 Install VueUse in your Vue or Nuxt project, then instruct the agent. It will automatically leverage VueUse to assist development.
